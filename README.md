@@ -42,7 +42,10 @@ Structured Output
 All extracted entities are compiled into a dictionary and displayed in JSON format for easy storage or API usage.
 
 ## Sample Output
-<img width="883" height="526" alt="image" src="https://github.com/user-attachments/assets/d5f6efe0-b34c-4c9b-8891-859512a40fef" />
+<img width="892" height="856" alt="image" src="https://github.com/user-attachments/assets/052af013-aaf7-448a-8902-3847222e4951" />
+<img width="763" height="578" alt="image" src="https://github.com/user-attachments/assets/49d2e23d-7a11-4cdb-bc78-25c62bd241dc" />
+
+
 
 ## Key Benefits
 Helps automate the resume screening process for HR and recruitment platforms.
